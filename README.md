@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently undertaking the SSW FireBootcamp Internship Program.
 - 🌱 I’m currently learning about Fullstack Web Development!
-- 📫 Check out [SSW's site](https://www.ssw.com.au/) or my [personal site](https://isaaclombard.com/) (unaffiliated)
+- 📫 Check out [SSW's site](https://www.ssw.com.au/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Casual Composer 🎹
 
