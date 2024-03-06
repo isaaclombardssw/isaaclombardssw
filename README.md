@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Casual Composer 🎹
 
 
-[![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaaclombardssw&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats) 
+[![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaaclombardssw&theme=dark)](https://github.com/isaaclombardssw/github-readme-stats) 
