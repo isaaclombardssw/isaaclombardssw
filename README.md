@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Competed in a ~80km outback running race in 2018
 
 
-[![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaaclombardssw&theme=dark)](https://github.com/isaaclombardssw/github-readme-stats) 
+[![Isaac's github stats](https://pixel-profile.vercel.app/api/github-stats?username=isaaclombardssw&theme=crt)](https://github.com/isaaclombardssw/github-readme-stats) 
