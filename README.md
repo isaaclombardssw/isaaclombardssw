@@ -6,5 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Competed in a ~80km outback running race in 2018
 
-
-[![Isaac's github stats](https://pixel-profile.vercel.app/api/github-stats?username=isaaclombardssw&theme=crt)](https://github.com/isaaclombardssw/github-readme-stats) 
+[![](https://pixel-profile.vercel.app/api/github-stats?username=isaaclombardssw&theme=crt)](https://pixel-profile.vercel.app/api/github-stats?username=isaaclombardssw&theme=crt) 
