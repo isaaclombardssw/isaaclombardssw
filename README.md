@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi, I'm Isaac 👋
 
-- 🔭 I am a full stack developer at SSW (SSW Software Developer).
-- 🌱 I'm currently learning about TanStack 👀
-- 📫 Check out [SSW's site](https://www.ssw.com.au/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Competed in a ~80km outback running race in 2018
+Full stack developer at [SSW](https://www.ssw.com.au/people/isaac-lombard), building AI-powered web apps and the tooling around them. B.Eng (First Class Hons).
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-tau.vercel.app/api/github-stats?username=isaaclombardssw&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-tau.vercel.app/api/github-stats?username=isaaclombardssw&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile-tau.vercel.app/api/github-stats?username=isaaclombardssw&theme=summer">
-</picture>
+- 🤖 Currently: shipping AI features and agentic workflows
+- 🌱 Learning: TanStack
+- ⚡ Fun fact: ran a ~80km outback race in 2018
+- 😄 He/Him
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/microbiome-dark.gif">
+    <img src="./assets/microbiome-light.gif" alt="Spinning micro biome model" width="360">
+  </picture>
+</p>
