@@ -1,15 +1,14 @@
-### Hi, I'm Isaac 👋
+### Isaac Lombard
 
-Full stack developer at [SSW](https://www.ssw.com.au/people/isaac-lombard), building AI-powered web apps and the tooling around them. B.Eng (First Class Hons).
-
-- 🤖 Currently: shipping AI features and agentic workflows
-- 🌱 Learning: TanStack
-- ⚡ Fun fact: ran a ~80km outback race in 2018
-- 😄 He/Him
+Full stack developer at [SSW](https://www.ssw.com.au/people/isaac-lombard), working where AI, design and engineering meet. I write about it at [iwrl.net](https://www.iwrl.net).
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/microbiome-dark.gif">
-    <img src="./assets/microbiome-light.gif" alt="Spinning micro biome model" width="360">
-  </picture>
+  <a href="https://www.iwrl.net">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/microbiome-dark.gif">
+      <img src="./assets/microbiome-light.gif" alt="Spinning micro biome model from iwrl.net" width="360">
+    </picture>
+  </a>
 </p>
+
+Currently shipping AI features and agentic workflows, and learning TanStack. B.Eng (First Class Hons). Once ran an ~80km outback race. He/him.
