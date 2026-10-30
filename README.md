@@ -1,6 +1,8 @@
 ### Isaac Lombard
 
-Full stack developer at [SSW](https://www.ssw.com.au/people/isaac-lombard), working where AI, design and engineering meet. I write about it at [iwrl.net](https://www.iwrl.net).
+Full stack developer at [SSW](https://www.ssw.com.au/people/isaac-lombard), working where AI, design and engineering meet. 
+
+I write about it at [iwrl.net](https://www.iwrl.net).
 
 <p align="center">
   <a href="https://www.iwrl.net">
@@ -11,4 +13,8 @@ Full stack developer at [SSW](https://www.ssw.com.au/people/isaac-lombard), work
   </a>
 </p>
 
-Currently shipping AI features and agentic workflows, and learning TanStack. B.Eng (First Class Hons). Once ran an ~80km outback race. He/him.
+Currently shipping AI features and agentic workflows, and enterprise code. B.Eng (First Class Hons). 
+
+Peaked when I ran an ~80km outback race at 18. 
+
+He/him.
